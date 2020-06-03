@@ -1,0 +1,11 @@
+# Specific input data:
+data/arge_subearth_data_all_1dayupdate.txt
+data/arge_test.txt
+data/omni2_all_years.dat
+data/MgII_composite.dat
+data/HELCATS_ICMECAT_v10_SCEQ.txt
+
+# Other:
+*.DS_Store
+*/.ipynb_checkpoints
+.ipynb_checkpoints
